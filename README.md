@@ -1,45 +1,32 @@
 # sharpmember-vuetify
 
-## Project setup
+## Commands
+
+Project setup:
 
 ```bash
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+Build project:
 
 ```bash
-yarn run serve
+yarn run serve # Compiles and hot-reloads for development
+yarn run build # Compiles and minifies for production
 ```
 
-### Compiles and minifies for production
-
-```bash
-yarn run build
-```
-
-### Run your tests
-
-```bash
-yarn run test
-```
-
-### Lints and fixes files
+Lints and fixes files:
 
 ```bash
 yarn run lint
 ```
 
-### Run your end-to-end tests
+Run end-to-end tests, unit tests and all tests:
 
 ```bash
 yarn run test:e2e
-```
-
-### Run your unit tests
-
-```bash
 yarn run test:unit
+yarn run test
 ```
 
 ## Project configurations
@@ -52,7 +39,7 @@ yarn run test:unit
   - Progressive Web App (PWA) Support
   - Router
   - Vuex
-  - CSS Pre-processors
+  - CSS Pre-processors: SASS/SCSS
   - Linter / Formatter
   - Unit Testing
   - E2E Testing
