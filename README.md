@@ -43,3 +43,7 @@ yarn run test
   - Linter / Formatter
   - Unit Testing
   - E2E Testing
+
+  Vuetify config:
+
+  - Pre-made template: a-la-carte
