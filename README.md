@@ -40,9 +40,9 @@ yarn run test
   - Router
   - Vuex
   - CSS Pre-processors: SASS/SCSS
-  - Linter / Formatter
-  - Unit Testing
-  - E2E Testing
+  - Linter / Formatter: TSLint (lint on save)
+  - Unit Testing: Jest
+  - E2E Testing: Cypress
 
   Vuetify config:
 

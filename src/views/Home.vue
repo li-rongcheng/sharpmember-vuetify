@@ -1,6 +1,9 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
+    <v-btn fab depressed large dark color="purple">
+      <v-icon large>email</v-icon>
+    </v-btn>
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
   </div>
 </template>
